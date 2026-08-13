@@ -1,2 +1,2 @@
 # projects
-this repository contain some of my works
+In this repository you will find some of my projects and works
